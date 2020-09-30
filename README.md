@@ -5,6 +5,6 @@ Screenshots:
 
 ![Main Interface](https://github.com/partypyro/Inventory-Management-System/blob/master/screenshots/main_interface.png)
 
-![Add Product Page](https://github.com/partypyro/Inventory-Management-System/blob/master/screenshots/add_product_interface.png)
+![Add Product Interface](https://github.com/partypyro/Inventory-Management-System/blob/master/screenshots/add_product_inteface.png)
 
 ![Add_Part_Interface](https://github.com/partypyro/Inventory-Management-System/blob/master/screenshots/add_part_interface.png)
